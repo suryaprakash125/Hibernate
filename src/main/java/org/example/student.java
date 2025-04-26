@@ -14,8 +14,6 @@ public class student {
     public List<Courses> getCourses() {
         return courses;
     }
-// Git Check
-    //hello cool
     public void setCourses(List<Courses> courses) {
         this.courses = courses;
     }
